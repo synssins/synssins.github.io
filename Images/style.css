@@ -1,0 +1,30 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #333366; SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-SHADOW-COLOR: #000045; SCROLLBAR-ARROW-COLOR: #ff9933; SCROLLBAR-BASE-COLOR: #000045; scrollbar-3d-light-color: #000045; scrollbar-dark-shadow-color: #000045
+}
+A:link {
+	COLOR: #c2dae4; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #c2dae4; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #c2dae4; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9933; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #f7f7f7; FONT-FAMILY: Verdana,Arial
+}
+P {
+	FONT-SIZE: 11px; COLOR: #f7f7f7; FONT-FAMILY: Verdana,Arial
+}
+TD.headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffcc; FONT-FAMILY: Verdana,Arial
+}
+P.headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffcc; FONT-FAMILY: Verdana,Arial
+}
+P.newstext {
+	FONT-SIZE: 11px; COLOR: #ffffcc; FONT-FAMILY: Verdana,Arial
+}
